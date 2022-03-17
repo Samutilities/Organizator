@@ -6,7 +6,7 @@ Organizator (alpha) v0.2
 
 Logiciel developpé par SAMEUR Samir
 
-Licence Creative Commons BY-NC-ND 
+Licence Creative Commons BY-NC-SA  
 
 Plus d'informations:
 
